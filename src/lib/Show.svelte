@@ -10,7 +10,7 @@
 		red: 'rounded-t-none border-t-2 border-red-500 dark:border-red-400',
 		yellow: 'rounded-t-none border-t-2 border-yellow-500 dark:border-yellow-400',
 		green: 'rounded-t-none border-t-2 border-green-500 dark:border-green-400',
-		blue: 'rounded-t-none border-t-2 border-blue-500 dark:border-blue-400',
+		blue: 'rounded-t-none border-t-2 border-blue-400 dark:border-blue-400',
 		indigo: 'rounded-t-none border-t-2 border-indigo-500 dark:border-indigo-400',
 		purple: 'rounded-t-none border-t-2 border-purple-500 dark:border-purple-400',
 		pink: 'rounded-t-none border-t-2 border-pink-500 dark:border-pink-400',
